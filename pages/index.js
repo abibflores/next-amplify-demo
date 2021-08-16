@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const urlBase = process.env.NEXT_PUBLIC_ROOT;
+const urlBase = process.env.NEXT_PUBLIC_ROOT_DEV;
 
 const Home = () => (
     <>
