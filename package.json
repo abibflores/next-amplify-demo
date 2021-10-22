@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
+  "keywords": ["amplify", "aws", "next", "react", "demos"],
   "author": "",
   "license": "ISC",
   "dependencies": {
