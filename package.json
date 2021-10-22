@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
+  "keywords": ["nextJs", "React", "aws", "amplify"],
   "author": "",
   "license": "ISC",
   "dependencies": {
